@@ -1,0 +1,1 @@
+-- MERGE statement is used to synchronize two tables by inserting, deleting, and updating the target table rows based on the join condition with the source table.
